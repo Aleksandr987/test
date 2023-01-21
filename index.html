@@ -18,7 +18,7 @@
 </head>
 <body>
     <div id="container">
-        vers - 01
+        vers - 022
     </div>
     <script>
       document.querySelector('html').addEventListener('pointerdown', e => {
@@ -31,6 +31,19 @@
       })
       document.querySelector('#container').addEventListener('pointerdown', e => {
         console.log('test - #container', e);
+        e.preventDefault();
+      })
+
+      document.querySelector('html').addEventListener('wheel', function(e) {
+        console.log('test 2 - html', e);
+        e.preventDefault();
+      })
+      document.querySelector('body').addEventListener('wheel', function(e) {
+        console.log('test 2 - body', e);
+        e.preventDefault();
+      })
+      document.querySelector('#container').addEventListener('wheel', function(e) {
+        console.log('test 2 - #container', e);
         e.preventDefault();
       })
     </script>
