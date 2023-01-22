@@ -26,6 +26,10 @@
     <script>
       console.log('test navigator.userAgent - ', navigator.userAgent)
       console.log('экран - ', document.documentElement.clientWidth, " - ", document.documentElement.clientHeight)
+
+      document.querySelector('html').addEventListener('touchmove', e => {
+            console.log('touchmove', e)
+      })
     </script>
 </body>
 </html>
