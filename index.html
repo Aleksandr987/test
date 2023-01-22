@@ -21,15 +21,25 @@
 </head>
 <body>
     <div id="container">
-        vers - 0333
+        vers - 044
     </div>
     <script>
       console.log('test navigator.userAgent - ', navigator.userAgent)
       console.log('экран - ', document.documentElement.clientWidth, " - ", document.documentElement.clientHeight)
 
-      document.querySelector('html').addEventListener('touchmove', e => {
-            console.log('touchmove', e)
+      let swipeStart;
+      document.querySelector('html').addEventListener('touchstart', e => {
+        swipeStart = e.changedTouches[0].pageY;
       })
+      document.querySelector('html').addEventListener('touchend', e => {
+        if(swipeStart - e.changedTouches[0].pageY > 50){
+          console.log("bottom")
+        }
+        if(swipeStart - e.changedTouches[0].pageY < -50){
+          console.log("top")
+        }
+      })
+
     </script>
 </body>
 </html>
