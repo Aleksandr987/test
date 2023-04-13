@@ -4,19 +4,19 @@
     <meta charset="UTF-8">
     <title>Title</title>
     <style>
-        * {
-            margin: 0;
-            box-sizing: border-box;
-        }
-        html, body {
-            overscroll-behavior: none
-        }
-        #container {
-            height: 100vh;
-            background-color: black;
-            border: 1px solid red;
-            color: #ffffff;
-        }
+        /** {*/
+        /*    margin: 0;*/
+        /*    box-sizing: border-box;*/
+        /*}*/
+        /*html, body {*/
+        /*    overscroll-behavior: none*/
+        /*}*/
+        /*#container {*/
+        /*    height: 100vh;*/
+        /*    background-color: black;*/
+        /*    border: 1px solid red;*/
+        /*    color: #ffffff;*/
+        /*}*/
     </style>
 </head>
 <body>
@@ -24,21 +24,27 @@
         vers - 044
     </div>
     <script>
-      console.log('test navigator.userAgent - ', navigator.userAgent)
-      console.log('экран - ', document.documentElement.clientWidth, " - ", document.documentElement.clientHeight)
+      document.addEventListener("DOMContentLoaded", async () => {
+        await fetch('https://healeycodes.com/polyfilling-fetch')
+      })
 
-      let swipeStart;
-      document.querySelector('html').addEventListener('touchstart', e => {
-        swipeStart = e.changedTouches[0].pageY;
-      })
-      document.querySelector('html').addEventListener('touchend', e => {
-        if(swipeStart - e.changedTouches[0].pageY > 50){
-          console.log("bottom")
-        }
-        if(swipeStart - e.changedTouches[0].pageY < -50){
-          console.log("top")
-        }
-      })
+      // console.log('test navigator.userAgent - ', navigator.userAgent)
+      // console.log('экран - ', document.documentElement.clientWidth, " - ", document.documentElement.clientHeight)
+      //
+      // let swipeStart;
+      // document.querySelector('html').addEventListener('touchstart', e => {
+      //   swipeStart = e.changedTouches[0].pageY;
+      // })
+      // document.querySelector('html').addEventListener('touchend', e => {
+      //   if(swipeStart - e.changedTouches[0].pageY > 50){
+      //     console.log("bottom")
+      //   }
+      //   if(swipeStart - e.changedTouches[0].pageY < -50){
+      //     console.log("top")
+      //   }
+      // })
+
+
 
     </script>
 </body>
