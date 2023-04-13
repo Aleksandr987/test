@@ -26,6 +26,11 @@
     <script>
       document.addEventListener("DOMContentLoaded", async () => {
         await fetch('https://healeycodes.com/polyfilling-fetch')
+          .then(res => {
+            return res.text()
+          }).then((votes) => {
+            console.log(222, votes)
+          })
       })
 
       // console.log('test navigator.userAgent - ', navigator.userAgent)
