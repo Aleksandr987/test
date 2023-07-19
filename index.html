@@ -4,28 +4,26 @@
     <meta charset="UTF-8">
     <title>Title</title>
     <style>
-        @font-face {
-            font-family: "Rubik";
-            src: url("fonts/RubikBlackSpecial/RubikBlackSpecial.ttf");
-            font-style: normal;
-            font-weight: 900;
-        }
-
-        @font-face {
-            font-family: "Rubik";
-            src: url("fonts/ofont.ru_Sangha.ttf");
-            font-style: normal;
-            font-weight: 100;
-        }
-
         body {
-            font-family: "Rubik";
-            font-weight: 900;
+            background-color: black;
+            opacity: .9;
         }
-
+        #container {
+            margin: 200px auto;
+            width: 500px;
+            height: 300px;
+        }
+        #test {
+            width: 400px;
+            height: 50px;
+            background-color: white;
+            transform: rotate(-8deg);
+        }
     </style>
 </head>
 <body>
-Тестирование шрифтов ё Ё е ¦
+    <div id="container">
+        <div id="test"></div>
+    </div>
 </body>
 </html>
