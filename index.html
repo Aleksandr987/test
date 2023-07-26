@@ -1,42 +1,71 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
     <style>
-        body {
-            background-color: #0d0a31;
-
+        .button{
+            position: relative;
+            display:block;
+            background: transparent;
+            width:200px;
+            height:60px;
+            line-height:60px;
+            text-align:center;
+            font-size:15px;
+            text-decoration:none;
+            text-transform:uppercase;
+            margin:40px auto;
+            text-align: center;
         }
-        #container {
-            margin: 200px auto;
-            width: 200px;
-            height: 60px;
-            transform: rotate(-7.7deg);
+
+        .button:before, .button:after {
+            width:200px;
+            left: 0px;
+            height:27px;
+            z-index: -1;
+            border-radius:5px;
+            background:yellow;
         }
-        /*#test {*/
-        /*    width: 400px;*/
-        /*    height: 50px;*/
-        /*    background-color: white;*/
-        /*    transform: rotate(-7.7deg);*/
-        /*}*/
 
+        /* Button Border Style */
+        .violet:before,.violet:after {
+            border: 3px solid yellow;
+        }
 
-    img {
-        width: 100%;
-        height: 100%;
-    }
+        .button:before{
+            position: absolute;
+            content: '';
+            border-bottom: none;
+            -webkit-transform: perspective(15px) rotateX(5deg);
+            -moz-transform: perspective(15px) rotateX(5deg);
+            transform: perspective(15px) rotateX(5deg);
+        }
 
+        .button:after{
+            position: absolute;
+            top: 32px;
+            content: '';
+            border-top: none;
+            -webkit-transform: perspective(15px) rotateX(-5deg);
+            -moz-transform: perspective(15px) rotateX(-5deg);
+            transform: perspective(15px) rotateX(-5deg);
+            box-shadow: 10px 10px 10px #000000;
+        }
+
+        /* Just for presentation */
+        body{
+            position: absolute;
+            height: 100%;
+            width: 100%;
+            background: #fff;
+        }
     </style>
 </head>
 <body>
-    <div id="container">
-        <div class="poster_sticker_container">
-
-                    <img class="poster_sticker_img-center_fon" src="sticker-c.png">
-
-        </div>
-    </div>
-
+<p class="button violet">get to know us!</p>
 </body>
 </html>
