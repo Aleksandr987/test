@@ -38,14 +38,13 @@
   //   console.log('test666')
   // }, 1000)
 
-  window.onpageshow = function(event) {
-    if (event.persisted) {
-      document.querySelector('#main_page_video_iframe').contentWindow.postMessage(JSON.stringify({
-        type: 'player:play'
-      }), '*');
-      console.log('test666')
-    }
-  };
+  // window.onpageshow = function(event) {
+  //   if (event.persisted) {
+  //     document.querySelector('#main_page_video_iframe').contentWindow.postMessage(JSON.stringify({
+  //       type: 'player:play'
+  //     }), '*');
+  //   }
+  // };
 
 </script>
 
