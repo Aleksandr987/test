@@ -30,6 +30,11 @@
 
 <a href="/test/test2/index.html">test222</a>
 </body>
+<script>
+  document.querySelector('#main_page_video_iframe').contentWindow.postMessage(JSON.stringify({
+    type: 'player:play'
+  }), '*');
+</script>
 
 </html>
 
