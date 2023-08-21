@@ -31,12 +31,19 @@
 <a href="/test/test2/index.html">test222</a>
 </body>
 <script>
-  setTimeout(()=>{
-    document.querySelector('#main_page_video_iframe').contentWindow.postMessage(JSON.stringify({
-      type: 'player:play'
-    }), '*');
-    console.log('test666')
-  }, 1000)
+  // setTimeout(()=>{
+  //   document.querySelector('#main_page_video_iframe').contentWindow.postMessage(JSON.stringify({
+  //     type: 'player:play'
+  //   }), '*');
+  //   console.log('test666')
+  // }, 1000)
+
+  window.onpageshow = function(event) {
+    console.log(4444444444)
+    if (event.persisted) {
+      alert("From back / forward cache.");
+    }
+  };
 
 </script>
 
