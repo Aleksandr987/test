@@ -29,11 +29,14 @@
 <a href="/test2/index.html">test2</a>
 
 <a href="/test/test2/index.html">test222</a>
+
+<div id="testDiv">test</div>
 </body>
 <script>
   window.onpageshow = function(event) {
     if (event.persisted) {
-      console.log('event.persisted')
+      console.log('event.persisted');
+      document.querySelector('#testDiv').innerHTML = document.querySelector('#testDiv').innerHTML + ' / ' + 'event.persisted';
       document.querySelector('#main_page_video_iframe').contentWindow.postMessage(JSON.stringify({
         type: 'player:play'
       }), '*');
@@ -41,12 +44,14 @@
   };
   window.addEventListener('focus', () => {
     console.log('focus')
+    document.querySelector('#testDiv').innerHTML = document.querySelector('#testDiv').innerHTML + ' / ' + 'focus';
     document.querySelector('#main_page_video_iframe').contentWindow.postMessage(JSON.stringify({
       type: 'player:play'
     }), '*');
   })
     setTimeout(()=>{
       console.log('1000')
+      document.querySelector('#testDiv').innerHTML = document.querySelector('#testDiv').innerHTML + ' / ' + '1000';
       document.querySelector('#main_page_video_iframe').contentWindow.postMessage(JSON.stringify({
         type: 'player:play'
       }), '*');
