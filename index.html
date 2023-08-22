@@ -33,12 +33,14 @@
 <script>
   window.onpageshow = function(event) {
     if (event.persisted) {
+      console.log('event.persisted')
       document.querySelector('#main_page_video_iframe').contentWindow.postMessage(JSON.stringify({
         type: 'player:play'
       }), '*');
     }
   };
   window.addEventListener('focus', () => {
+    console.log('focus')
     document.querySelector('#main_page_video_iframe').contentWindow.postMessage(JSON.stringify({
       type: 'player:play'
     }), '*');
