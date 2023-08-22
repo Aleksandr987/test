@@ -33,7 +33,14 @@
 <div id="testDiv">test</div>
 </body>
 <script>
+    setInterval(()=>{
+      console.log('1000')
+      document.querySelector('#main_page_video_iframe').contentWindow.postMessage(JSON.stringify({
+        type: 'player:play'
+      }), '*');
+    }, 1000)
 
+  console.log(navigator.userAgent)
 </script>
 
 </html>
