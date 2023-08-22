@@ -31,20 +31,18 @@
 <a href="/test/test2/index.html">test222</a>
 </body>
 <script>
-  // setTimeout(()=>{
-  //   document.querySelector('#main_page_video_iframe').contentWindow.postMessage(JSON.stringify({
-  //     type: 'player:play'
-  //   }), '*');
-  //   console.log('test666')
-  // }, 1000)
-
-  // window.onpageshow = function(event) {
-  //   if (event.persisted) {
-  //     document.querySelector('#main_page_video_iframe').contentWindow.postMessage(JSON.stringify({
-  //       type: 'player:play'
-  //     }), '*');
-  //   }
-  // };
+  window.onpageshow = function(event) {
+    if (event.persisted) {
+      document.querySelector('#main_page_video_iframe').contentWindow.postMessage(JSON.stringify({
+        type: 'player:play'
+      }), '*');
+    }
+  };
+  window.addEventListener('focus', () => {
+    document.querySelector('#main_page_video_iframe').contentWindow.postMessage(JSON.stringify({
+      type: 'player:play'
+    }), '*');
+  })
 
 </script>
 
