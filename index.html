@@ -18,13 +18,16 @@
 
 <body>
 
-<div id="test">test</div>
+<div id="test">test2</div>
 
 <script>
-  let x = document.documentElement.clientWidth;
+
+
+  let windowStartWidth = document.documentElement.clientWidth;
   window.addEventListener('resize', ()=>{
-    if(x !== document.documentElement.clientWidth) {
-      document.querySelector('#test').innerHTML = `${x, document.documentElement.clientWidth}`;
+    if(windowStartWidth !== document.documentElement.clientWidth) {
+      let windowStartWidth = document.documentElement.clientWidth
+      document.querySelector('#test').innerHTML = `${windowStartWidth, document.documentElement.clientWidth}`;
     }
   })
 </script>
