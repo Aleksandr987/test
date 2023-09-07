@@ -2,8 +2,6 @@
 <html lang="en">
 
 <head>
-
-
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -14,34 +12,22 @@
 
     </style>
 
-
-
-
-
-
-
 </head>
 
 <body>
-<div><iframe id="main_page_video_iframe" src="https://uma.media/play/embed/d99174e608ae100630736a66e46f7e5b" ></iframe>
-</div>
 
-<a href="/test2/index.html">test2</a>
+<div id="test">test</div>
 
-<a href="/test/test2/index.html">test222</a>
-
-<div id="testDiv">test</div>
-</body>
 <script>
-    setInterval(()=>{
-      console.log('1000')
-      document.querySelector('#main_page_video_iframe').contentWindow.postMessage(JSON.stringify({
-        type: 'player:play'
-      }), '*');
-    }, 1000)
-
-  console.log(navigator.userAgent)
+  let x = document.documentElement.clientWidth;
+  window.addEventListener('resize', ()=>{
+    if(x !== document.documentElement.clientWidth) {
+      document.querySelector('#test').innerHTML = `${x, document.documentElement.clientWidth}`;
+    }
+  })
 </script>
+</body>
+
 
 </html>
 
