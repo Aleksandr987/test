@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        *{
+            margin: 0;
+        }
+        body {
+            width: 100%;
+            overflow: hidden
+        }
+        .mask {
+            transition: transform 2s;
+            font-size: 25vw;
+            font-weight: 900;
+            width:100vw;
+            mix-blend-mode: multiply;
+            background: #000;
+            color: #FFF;
+            transform: scale(2);
+            overflow: hidden;
+        }
+        .img {
+            width: 100vw;
+            height: 100vh;
+            position: absolute;
+            background-image: url("test.jpg");
+            background-size: cover;
+        }
+    </style>
+
+</head>
+<body>
+<div class="img"></div>
+<div class="mask">тесттест</div>
+
+</body>
+</html>
