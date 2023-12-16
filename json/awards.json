@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "year": 2023,
+      "awards": [
+        {
+          "id": 1,
+          "title": "Кинотавр",
+          "award_image": "/test-date/awards/images/award_1.jpg",
+          "projects": [
+            {
+              "project": {
+                "id": 5,
+                "title": "Эпидемия",
+                "slug": "nihil-voluptatem"
+              },
+              "nomination": "Лучшая режисура<br/> Лучшая актриса"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Золотой орёл",
+          "award_image": "/test-date/awards/images/award_2.jpg",
+          "projects": [
+            {
+              "project": {
+                "id": 2,
+                "title": "Легенда о Коловрате",
+                "slug": "sapiente-ut"
+              },
+              "nomination": "Лучшая режисура"
+            },
+            {
+              "project": {
+                "id": 3,
+                "title": "Доктор Лиза",
+                "slug": "et-dolores"
+              },
+              "nomination": "Лучший фильм"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "awards": [
+        {
+          "id": 2,
+          "title": "Ника",
+          "award_image": "/test-date/awards/images/award_3.jpg",
+          "projects": [
+            {
+              "project": {
+                "id": 8,
+                "title": "Еще фильм 5",
+                "slug": "ea-ipsa"
+              },
+              "nomination": "Лучшая режисура<br/>Лучшая сценарий"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "awards": [
+        {
+          "id": 2,
+          "title": "Ника",
+          "award_image": "/test-date/awards/images/award_3.jpg",
+          "projects": [
+            {
+              "project": {
+                "id": 8,
+                "title": "Еще фильм",
+                "slug": "ea-ipsa"
+              },
+              "nomination": "Лучшая сценарий"
+            },
+            {
+              "project": {
+                "id": 3,
+                "title": "Доктор Лиза",
+                "slug": "et-dolores"
+              },
+              "nomination": "Лучший фильм"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "title": "Кинотавр",
+          "award_image": "/test-date/awards/images/award_1.jpg",
+          "projects": [
+            {
+              "project": {
+                "id": 5,
+                "title": "Эпидемия",
+                "slug": "nihil-voluptatem"
+              },
+              "nomination": "Лучшая режисура<br/> Лучшая актриса"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

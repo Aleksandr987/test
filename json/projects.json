@@ -1,0 +1,297 @@
+{
+  "data": {
+    "total": 5,
+    "last_page": 1,
+    "items": [
+      {
+        "id": 1,
+        "title": "hic ullam 1",
+        "slug": "hic-ullam",
+        "description": "Quod rerum similique eum voluptas provident dignissimos. Vel nemo fugiat architecto omnis voluptatibus dolore.asdasd",
+        "genres": [],
+        "year": 2021,
+        "director": null,
+        "producers": "Destiney Emmerich DVM",
+        "production": "voluptas",
+        "starring": "Bailee Hyatt, Miss Jade Collins I, Jerome Langosh MD, Abelardo Price",
+        "type": "Сериал",
+        "status": "Готово",
+        "trailers": [
+          {
+            "id": 7,
+            "embed": "teaadf"
+          }
+        ],
+        "awards": [],
+        "news": [],
+        "main_poster": "http://192.168.0.102:9001/studiokit/media/30/1648749568_26-vsegda-pomnim-com-p-ozero-ritsa-v-aprele-foto-27.jpg",
+        "poster": "/test-date/main_page/images/img-project-item.jpg",
+        "photos": []
+      },
+      {
+        "id": 2,
+        "title": "sapiente ut",
+        "slug": "sapiente-ut",
+        "description": "Eveniet non architecto ullam et rerum nisi. Est et est recusandae. Dolorem labore vel doloribus cum enim enim.",
+        "genres": [],
+        "year": 2022,
+        "director": null,
+        "producers": "Jedidiah Kiehn",
+        "production": "rem",
+        "starring": "Darion Bashirian, Dr. Lorenza Kuvalis, Easter Wehner, Dr. Tanya Daniel IV",
+        "type": "Фильм",
+        "status": "Готово",
+        "trailers": [],
+        "awards": [
+          {
+            "id": 1,
+            "title": "Test",
+            "award_title": "Mrs.",
+            "year": "Test",
+            "nomination": "Prof."
+          }
+        ],
+        "news": [
+          {
+            "id": 8,
+            "title": "autem rem",
+            "slug": "autem-rem",
+            "project": {
+              "id": 2,
+              "title": "sapiente ut",
+              "slug": "sapiente-ut"
+            },
+            "short_description": "Eveniet numquam nisi animi nihil. Quae deleniti aut eligendi neque expedita. Non voluptas atque tempora. Consequatur nihil eius dicta explicabo quis rerum aspernatur tempora.",
+            "published_at": "23.03.1992 14:12",
+            "poster": ""
+          }
+        ],
+        "main_poster": "http://studiokit.local/storage/media/media/29/PR575724.png",
+        "poster": "",
+        "photos": []
+      },
+      {
+        "id": 7,
+        "title": "quod ullam",
+        "slug": "quod-ullam",
+        "description": "Doloremque officiis at provident minus voluptatem non. Itaque ratione quam impedit rerum et natus.",
+        "genres": [
+          "Prof.",
+          "Dr."
+        ],
+        "year": 2022,
+        "director": null,
+        "producers": "Jacinthe Jacobi PhD",
+        "production": "atque",
+        "starring": "Faye Stracke, Alvah Wintheiser I, Hailey Brown V, Prof. Tiffany Davis DVM",
+        "type": "ТВ-шоу",
+        "status": "Готово",
+        "trailers": [],
+        "awards": [],
+        "news": [],
+        "main_poster": "",
+        "poster": "",
+        "photos": []
+      },
+      {
+        "id": 8,
+        "title": "ea ipsa",
+        "slug": "ea-ipsa",
+        "description": "Officia dolore iste iusto laborum dolores qui labore. Beatae qui vero exercitationem et consequatur. Voluptas eum tenetur doloribus enim.",
+        "genres": [
+          "Dr.",
+          "Miss"
+        ],
+        "year": 2023,
+        "director": null,
+        "producers": "Rowland Hirthe",
+        "production": "voluptatem",
+        "starring": "Mack Walker, Dr. Logan Johnson, Gwen Borer, Amalia Schumm",
+        "type": "Фильм",
+        "status": "Готово",
+        "trailers": [],
+        "awards": [],
+        "news": [
+          {
+            "id": 6,
+            "title": "beatae sit",
+            "slug": "beatae-sit",
+            "project": {
+              "id": 8,
+              "title": "ea ipsa",
+              "slug": "ea-ipsa"
+            },
+            "short_description": "Vero itaque ut et nesciunt sit cumque ad. Qui ratione incidunt nihil ut. Illum asperiores occaecati sed placeat quam provident odio.",
+            "published_at": "26.12.2015 19:02",
+            "poster": ""
+          },
+          {
+            "id": 10,
+            "title": "eligendi occaecati",
+            "slug": "eligendi-occaecati",
+            "project": {
+              "id": 8,
+              "title": "ea ipsa",
+              "slug": "ea-ipsa"
+            },
+            "short_description": "Ducimus id aut non. Numquam quod in repudiandae dolores et sint. Qui molestiae odio facere saepe quo.",
+            "published_at": "07.01.2020 04:39",
+            "poster": ""
+          }
+        ],
+        "main_poster": "",
+        "poster": "",
+        "photos": []
+      },
+      {
+        "id": 9,
+        "title": "omnis eos",
+        "slug": "omnis-eos",
+        "description": "Eaque consequatur neque minima animi libero aliquid sit. Sit et et amet ut laboriosam.",
+        "genres": [],
+        "year": 2023,
+        "director": null,
+        "producers": "Dr. Shanel Denesik",
+        "production": "facilis",
+        "starring": "Mr. Colt Marks, Mrs. Rosella Funk I, Raheem Kautzer, Ceasar Heidenreich Jr.",
+        "type": "Сериал",
+        "status": "Готово",
+        "trailers": [],
+        "awards": [],
+        "news": [
+          {
+            "id": 3,
+            "title": "dolorum ut",
+            "slug": "dolorum-ut",
+            "project": {
+              "id": 9,
+              "title": "omnis eos",
+              "slug": "omnis-eos"
+            },
+            "short_description": "Repudiandae sed sit iure. Aliquid corrupti fuga animi aut est. Inventore repellendus est iste qui dolores fuga qui et. Quia praesentium dolores adipisci itaque necessitatibus et blanditiis explicabo.",
+            "published_at": "22.02.1971 09:53",
+            "poster": ""
+          },
+          {
+            "id": 4,
+            "title": "quia voluptatum",
+            "slug": "quia-voluptatum",
+            "project": {
+              "id": 9,
+              "title": "omnis eos",
+              "slug": "omnis-eos"
+            },
+            "short_description": "Voluptas aut ipsum aliquam placeat ipsam non impedit neque. Est non consequatur ea rerum voluptates. Vero sunt et ducimus fugiat autem. Sit assumenda minima blanditiis porro id fugiat soluta.",
+            "published_at": "29.07.1979 00:57",
+            "poster": ""
+          }
+        ],
+        "main_poster": "",
+        "poster": "",
+        "photos": []
+      },
+      {
+        "id": 1,
+        "title": "hic ullam 2",
+        "slug": "hic-ullam",
+        "description": "Quod rerum similique eum voluptas provident dignissimos. Vel nemo fugiat architecto omnis voluptatibus dolore.asdasd",
+        "genres": [],
+        "year": 2023,
+        "director": null,
+        "producers": "Destiney Emmerich DVM",
+        "production": "voluptas",
+        "starring": "Bailee Hyatt, Miss Jade Collins I, Jerome Langosh MD, Abelardo Price",
+        "type": "Сериал",
+        "status": "В производстве",
+        "trailers": [
+          {
+            "id": 7,
+            "embed": "teaadf"
+          }
+        ],
+        "awards": [],
+        "news": [],
+        "main_poster": "http://192.168.0.102:9001/studiokit/media/30/1648749568_26-vsegda-pomnim-com-p-ozero-ritsa-v-aprele-foto-27.jpg",
+        "poster": "/test-date/main_page/images/img-project-item.jpg",
+        "photos": []
+      },
+      {
+        "id": 1,
+        "title": "hic ullam 3",
+        "slug": "hic-ullam",
+        "description": "Quod rerum similique eum voluptas provident dignissimos. Vel nemo fugiat architecto omnis voluptatibus dolore.asdasd",
+        "genres": [],
+        "year": 2023,
+        "director": null,
+        "producers": "Destiney Emmerich DVM",
+        "production": "voluptas",
+        "starring": "Bailee Hyatt, Miss Jade Collins I, Jerome Langosh MD, Abelardo Price",
+        "type": "Сериал",
+        "status": "В производстве",
+        "trailers": [
+          {
+            "id": 7,
+            "embed": "teaadf"
+          }
+        ],
+        "awards": [],
+        "news": [],
+        "main_poster": "http://192.168.0.102:9001/studiokit/media/30/1648749568_26-vsegda-pomnim-com-p-ozero-ritsa-v-aprele-foto-27.jpg",
+        "poster": "/test-date/main_page/images/img-project-item.jpg",
+        "photos": []
+      },
+      {
+        "id": 1,
+        "title": "hic ullam 4",
+        "slug": "hic-ullam",
+        "description": "Quod rerum similique eum voluptas provident dignissimos. Vel nemo fugiat architecto omnis voluptatibus dolore.asdasd",
+        "genres": [],
+        "year": 2024,
+        "director": null,
+        "producers": "Destiney Emmerich DVM",
+        "production": "voluptas",
+        "starring": "Bailee Hyatt, Miss Jade Collins I, Jerome Langosh MD, Abelardo Price",
+        "type": "Сериал",
+        "status": "В производстве",
+        "trailers": [
+          {
+            "id": 7,
+            "embed": "teaadf"
+          }
+        ],
+        "awards": [],
+        "news": [],
+        "main_poster": "http://192.168.0.102:9001/studiokit/media/30/1648749568_26-vsegda-pomnim-com-p-ozero-ritsa-v-aprele-foto-27.jpg",
+        "poster": "/test-date/main_page/images/img-project-item.jpg",
+        "photos": []
+      },
+      {
+        "id": 1,
+        "title": "hic ullam 5",
+        "slug": "hic-ullam",
+        "description": "Quod rerum similique eum voluptas provident dignissimos. Vel nemo fugiat architecto omnis voluptatibus dolore.asdasd",
+        "genres": [],
+        "year": 2024,
+        "director": null,
+        "producers": "Destiney Emmerich DVM",
+        "production": "voluptas",
+        "starring": "Bailee Hyatt, Miss Jade Collins I, Jerome Langosh MD, Abelardo Price",
+        "type": "Сериал",
+        "status": "В производстве",
+        "trailers": [
+          {
+            "id": 7,
+            "embed": "teaadf"
+          }
+        ],
+        "awards": [],
+        "news": [],
+        "main_poster": "http://192.168.0.102:9001/studiokit/media/30/1648749568_26-vsegda-pomnim-com-p-ozero-ritsa-v-aprele-foto-27.jpg",
+        "poster": "/test-date/main_page/images/img-project-item.jpg",
+        "photos": []
+      }
+    ],
+    "current_page": 1,
+    "path": "http://studiokit.local/api/projects/list"
+  }
+}

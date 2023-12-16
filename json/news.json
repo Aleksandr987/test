@@ -1,0 +1,140 @@
+{
+  "data": {
+    "total": 3,
+    "last_page": 1,
+    "items": [
+      {
+        "id": 1,
+        "title": "«Киностудия КИТ» объявляет о съемках драмы",
+        "slug": "test",
+        "project": {
+          "id": 10,
+          "title": "sit nulla",
+          "slug": "sit-nulla"
+        },
+        "short_description": "321Co23rrupti consequatur voluptate non sequi. Non in veniam et architecto perspiciatis corporis vel aperiam. Ipsum adipisci ea et aut officiis deleniti nulla nostrum. Assumenda corrupti iure accusamus non iusto quos.",
+        "published_at": "04.03.2021 01:28",
+        "poster": "/test-date/news/images/news_1.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Старт съёмок сериала «Законник»",
+        "slug": "test",
+        "project": {
+          "id": 2,
+          "title": "sapiente ut",
+          "slug": "sapiente-ut"
+        },
+        "short_description": "Eveniet numquam nisi animi nihil. Quae deleniti aut eligendi neque expedita. Non voluptas atque tempora. Consequatur nihil eius dicta explicabo quis rerum aspernatur tempora.",
+        "published_at": "23.03.2022 14:12",
+        "poster": "/test-date/news/images/news_2.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Старт съёмок сериала «Заговоренный»",
+        "slug": "test",
+        "project": {
+          "id": 4,
+          "title": "cum distinctio",
+          "slug": "cum-distinctio"
+        },
+        "short_description": "Labore laborum reiciendis sapiente pariatur in repellat et. Cumque labore et omnis quasi pariatur quam vitae. Sed voluptas et minus qui natus doloremque laboriosam. Reiciendis velit sit sequi est.",
+        "published_at": "24.05.2022 01:15",
+        "poster": "/test-date/news/images/news_1_2x.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Старт съёмок сериала «Законник» 2",
+        "slug": "test",
+        "project": {
+          "id": 4,
+          "title": "cum distinctio",
+          "slug": "cum-distinctio"
+        },
+        "short_description": "Labore laborum reiciendis sapiente pariatur in repellat et. Cumque labore et omnis quasi pariatur quam vitae. Sed voluptas et minus qui natus doloremque laboriosam. Reiciendis velit sit sequi est.",
+        "published_at": "24.05.2023 01:15",
+        "poster": "/test-date/news/images/news_1.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Старт съёмок сериала «Заговоренный» 444",
+        "slug": "test",
+        "project": {
+          "id": 4,
+          "title": "cum distinctio",
+          "slug": "cum-distinctio"
+        },
+        "short_description": "Labore laborum reiciendis sapiente pariatur in repellat et. Cumque labore et omnis quasi pariatur quam vitae. Sed voluptas et minus qui natus doloremque laboriosam. Reiciendis velit sit sequi est.",
+        "published_at": "24.05.2023 01:15",
+        "poster": "/test-date/news/images/news_1.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Старт съёмок сериала «Заговоренный» 444",
+        "slug": "test",
+        "project": {
+          "id": 4,
+          "title": "cum distinctio",
+          "slug": "cum-distinctio"
+        },
+        "short_description": "Labore laborum reiciendis sapiente pariatur in repellat et. Cumque labore et omnis quasi pariatur quam vitae. Sed voluptas et minus qui natus doloremque laboriosam. Reiciendis velit sit sequi est.",
+        "published_at": "24.05.2023 01:15",
+        "poster": "/test-date/news/images/news_1.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Старт съёмок сериала «Заговоренный»",
+        "slug": "test",
+        "project": {
+          "id": 4,
+          "title": "cum distinctio",
+          "slug": "cum-distinctio"
+        },
+        "short_description": "Labore laborum reiciendis sapiente pariatur in repellat et. Cumque labore et omnis quasi pariatur quam vitae. Sed voluptas et minus qui natus doloremque laboriosam. Reiciendis velit sit sequi est.",
+        "published_at": "24.05.2023 01:15",
+        "poster": "/test-date/news/images/news_1.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Старт съёмок сериала «Заговоренный»",
+        "slug": "test",
+        "project": {
+          "id": 4,
+          "title": "cum distinctio",
+          "slug": "cum-distinctio"
+        },
+        "short_description": "Labore laborum reiciendis sapiente pariatur in repellat et. Cumque labore et omnis quasi pariatur quam vitae. Sed voluptas et minus qui natus doloremque laboriosam. Reiciendis velit sit sequi est.",
+        "published_at": "24.05.2023 01:15",
+        "poster": "/test-date/news/images/news_1.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Старт съёмок сериала «Заговоренный»",
+        "slug": "test",
+        "project": {
+          "id": 4,
+          "title": "cum distinctio",
+          "slug": "cum-distinctio"
+        },
+        "short_description": "Labore laborum reiciendis sapiente pariatur in repellat et. Cumque labore et omnis quasi pariatur quam vitae. Sed voluptas et minus qui natus doloremque laboriosam. Reiciendis velit sit sequi est.",
+        "published_at": "24.05.2023 01:15",
+        "poster": "/test-date/news/images/news_2.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Старт съёмок сериала «Заговоренный» 77777",
+        "slug": "test",
+        "project": {
+          "id": 4,
+          "title": "cum distinctio",
+          "slug": "cum-distinctio"
+        },
+        "short_description": "Labore laborum reiciendis sapiente pariatur in repellat et. Cumque labore et omnis quasi pariatur Labore laborum reiciendis sapiente pariatur in repellat et. Cumque labore et omnis quasi pariatur quam vitae. Sed voluptas et minus qui natus doloremque laboriosam. Reiciendis velit sit sequi est 7777.",
+        "published_at": "24.05.2023 01:15",
+        "poster": "/test-date/news/images/news_1.jpg"
+      }
+    ],
+    "current_page": 1,
+    "path": "http://studiokit.local/api/news/list"
+  }
+}

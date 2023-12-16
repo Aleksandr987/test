@@ -1,0 +1,25 @@
+{
+  "data": {
+    "address": "121357 г. Москва, ул. Верейская, д. 29 стр. 33, 7 этаж, Верейская Плаза III",
+    "phone_number": "+7 (495) 777-17-91",
+    "email": "info@gpm-kit.ru",
+    "social": {
+      "vk": {
+        "link": "https://vk.com",
+        "name": "ВК"
+      },
+      "telegram": {
+        "link": "https://telegram.org/",
+        "name": "ТГ"
+      },
+      "rutube": {
+        "link": "https://rutube.ru/",
+        "name": "рутьюб"
+      },
+      "ok": {
+        "link": "https://ok.ru/",
+        "name": "ОК"
+      }
+    }
+  }
+}
