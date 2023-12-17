@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Андрей Бегунов",
+      "position": "Генеральный директор",
+      "description": "Ранее Андрей Бегунов работал руководителем производства в кинокомпании «Амедиа», занимал должность руководителя финансового департамента в Фонде кино, был членом экспертного совета Фонда. Параллельно как независимый продюсер занимался съемками и прокатом полнометражных, документальных фильмов и сериалов, а также их их представлением на должность руководителя финансового департамента в Фонде кино, был членом экспертного совета Фонда. Параллельно как независимый продюсер занимался съемками и прокатом полнометражных, документальных фильмов и сериалов, а также их их представлением",
+      "email": "miguel49@yahoo.com",
+      "social": {
+        "ok": "http://dooley.com/distinctio-perspiciatis-sequi-quae-repellendus-occaecati-ex",
+        "vk": "http://www.pollich.org/et-quia-qui-et-deserunt",
+        "rutube": "https://towne.net/earum-vero-non-dolores-suscipit-incidunt-perspiciatis.html",
+        "telegram": "http://nolan.info/sed-et-vero-laboriosam-sint-et-atque"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Сергей Багиров",
+      "position": "Продюсер, заместитель генерального директора",
+      "description": "",
+      "email": "glang@yahoo.com",
+      "social": {
+        "ok": "http://www.schultz.org/non-distinctio-in-nesciunt-repudiandae",
+        "vk": "http://www.schimmel.net/in-deleniti-et-velit-ut-sint",
+        "rutube": "http://gibson.com/molestiae-aspernatur-quia-iste-odit-accusantium.html",
+        "telegram": ""
+      }
+    },
+    {
+      "id": 3,
+      "name": "Prof. Jamison Kessler",
+      "position": "dignissimos",
+      "description": "Quia et dolorem et veniam eligendi. Omnis reprehenderit esse consequatur reprehenderit hic quasi ea alias. Error perspiciatis quidem vel quia.",
+      "email": "kelley.pacocha@maggio.com",
+      "social": {
+        "ok": "http://www.wolff.info/quo-placeat-necessitatibus-aliquid-dolore-ut-autem",
+        "vk": "",
+        "rutube": "http://heaney.net/",
+        "telegram": "https://zulauf.net/exercitationem-doloribus-reiciendis-quia.html"
+      }
+    }
+  ]
+}

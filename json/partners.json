@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "Dr.",
+            "link": "http://www.zieme.com/itaque-voluptates-aut-minus-eum-cupiditate-quibusdam",
+            "logotype_monochrome": "/test-date/about/images/partners_1_1.svg",
+            "logotype": "/test-date/about/images/partners_1_2.svg"
+        },
+        {
+            "id": 2,
+            "title": "Dr.",
+            "link": "https://www.1tv.ru/",
+            "logotype_monochrome": "/test-date/about/images/partners_2_1.svg",
+            "logotype": "/test-date/about/images/partners_2_2.svg"
+        },
+        {
+            "id": 3,
+            "title": "Mr.",
+            "link": "https://www.bergstrom.biz/dolore-debitis-sit-rerum-facere-dolores",
+            "logotype_monochrome": "/test-date/about/images/partners_3_1.svg",
+            "logotype": "/test-date/about/images/partners_3_2.svg"
+        },
+        {
+            "id": 1,
+            "title": "Dr.",
+            "link": "http://www.zieme.com/itaque-voluptates-aut-minus-eum-cupiditate-quibusdam",
+            "logotype_monochrome": "/test-date/about/images/partners_1_1.svg",
+            "logotype": "/test-date/about/images/partners_1_2.svg"
+        },
+        {
+            "id": 2,
+            "title": "Dr.",
+            "link": "https://larkin.biz/dolorem-magnam-distinctio-et-officiis-vero-dignissimos.html",
+            "logotype_monochrome": "/test-date/about/images/partners_2_1.svg",
+            "logotype": "/test-date/about/images/partners_2_2.svg"
+        },
+        {
+            "id": 3,
+            "title": "Mr.",
+            "link": "https://www.bergstrom.biz/dolore-debitis-sit-rerum-facere-dolores",
+            "logotype_monochrome": "/test-date/about/images/partners_3_1.svg",
+            "logotype": "/test-date/about/images/partners_3_2.svg"
+        },
+        {
+            "id": 1,
+            "title": "Dr.",
+            "link": "http://www.zieme.com/itaque-voluptates-aut-minus-eum-cupiditate-quibusdam",
+            "logotype_monochrome": "/test-date/about/images/partners_1_1.svg",
+            "logotype": "/test-date/about/images/partners_1_2.svg"
+        },
+        {
+            "id": 2,
+            "title": "Dr.",
+            "link": "https://larkin.biz/dolorem-magnam-distinctio-et-officiis-vero-dignissimos.html",
+            "logotype_monochrome": "/test-date/about/images/partners_2_1.svg",
+            "logotype": "/test-date/about/images/partners_2_2.svg"
+        },
+        {
+            "id": 3,
+            "title": "Mr.",
+            "link": "https://www.bergstrom.biz/dolore-debitis-sit-rerum-facere-dolores",
+            "logotype_monochrome": "/test-date/about/images/partners_3_1.svg",
+            "logotype": "/test-date/about/images/partners_3_2.svg"
+        },
+        {
+            "id": 1,
+            "title": "Dr.",
+            "link": "http://www.zieme.com/itaque-voluptates-aut-minus-eum-cupiditate-quibusdam",
+            "logotype_monochrome": "/test-date/about/images/partners_1_1.svg",
+            "logotype": "/test-date/about/images/partners_1_2.svg"
+        }
+    ]
+}
