@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "year": 2023,
+      "milestone": [
+        {
+          "id": 3,
+          "title": "Test milestone",
+          "description": "Et et aut est doloribus consequuntur exercitationem ullam sapiente. Vero magni ducimus laudantium. Nostrum esse voluptatem corrupti totam deserunt debitis quis. Aut totam quod voluptas neque quibusdam assumenda.",
+          "milestone_poster": "/test-date/about/images/history_1.jpg"
+        },
+        {
+          "id": 1,
+          "title": "Miss",
+          "description": "Aut ipsum similique quod. Consequuntur suscipit voluptatem quaerat beatae. Quo voluptatem omnis sunt omnis.",
+          "milestone_poster": "/test-date/about/images/history_3.jpg"
+        }
+      ],
+      "preview": null
+    },
+    {
+      "id": 5,
+      "year": 2022,
+      "milestone": [
+        {
+          "id": 2,
+          "title": "Mr. 66",
+          "description": "Praesentium culpa provident et voluptatem. Explicabo aliquam inventore dignissimos optio quia aut fuga maiores. Sapiente tempore temporibus rerum ex quia. Voluptatem porro numquam possimus consequatur autem eos.",
+          "milestone_poster": "/test-date/about/images/history_4.jpg"
+        }
+      ],
+      "preview": "http://192.168.0.102:9001/studiokit/media/88/1648749568_26-vsegda-pomnim-com-p-ozero-ritsa-v-aprele-foto-27.jpg"
+    },
+    {
+      "id": 5,
+      "year": 2016,
+      "milestone": [
+        {
+          "id": 2,
+          "title": "Создание компании",
+          "description": "Создание компании на базе творческой студии Газпром-медия",
+          "milestone_poster": "/test-date/about/images/history_1.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Первый проект",
+          "description": "<p>Первые проекты: <a href='/'>один</a></p>Это история о типичном мажоре Андрее Белозерцеве, сыне владельца порта, который ни в чём себе не отказывает. Но всё меняется, когда отца Андрея — Илью Белозерцева - убивают, а на самого молодого человека начинается охота.",
+          "milestone_poster": "/test-date/about/images/history_3.jpg"
+        }
+      ],
+      "preview": ""
+    }
+  ]
+}
