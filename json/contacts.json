@@ -1,25 +1,101 @@
 {
   "data": {
-    "address": "121357 г. Москва,<br/> ул. Верейская, д. 29 стр. 33, 7 этаж, Верейская Плаза III",
-    "phone_number": "+7 (495) 777-17-91",
-    "email": "info@gpm-kit.ru",
-    "social": {
-      "vk": {
-        "link": "https://vk.com",
-        "name": "ВК"
-      },
-      "telegram": {
-        "link": "https://telegram.org/",
-        "name": "ТГ"
-      },
-      "rutube": {
-        "link": "https://rutube.ru/",
-        "name": "рутьюб"
-      },
-      "ok": {
-        "link": "https://ok.ru/",
-        "name": "ОК"
+    "contacts": {
+      "address": "121357 г. Москва,<br/> ул. Верейская, д. 29 стр. 33, 7 этаж, Верейская Плаза III",
+      "phone_number": "+7 (495) 777-17-91",
+      "email": "info@gpm-kit.ru",
+      "social": {
+        "vk": {
+          "link": "https://vk.com",
+          "name": "ВК"
+        },
+        "telegram": {
+          "link": "https://telegram.org/",
+          "name": "ТГ"
+        },
+        "rutube": {
+          "link": "https://rutube.ru/",
+          "name": "рутьюб"
+        },
+        "ok": {
+          "link": "https://ok.ru/",
+          "name": "ОК"
+        }
       }
-    }
+    },
+    "departments": [
+      {
+        "id": 1,
+        "title": "Отдел продаж",
+        "phone_number": "+7 (495) XXX-XX-XX",
+        "email": "hsimonis@hotmail.com",
+        "social": {
+          "ok": "https://donnelly.com/sit-quaerat-consequuntur-velit-in-qui-pariatur.html",
+          "vk": "https://www.tillman.com/consequatur-incidunt-enim-doloremque-qui-similique",
+          "rutube": "http://mayert.net/",
+          "telegram": "http://hill.com/consectetur-voluptas-cumque-natus-consequuntur"
+        }
+      },
+      {
+        "id": 2,
+        "title": "Отдел корпоративных клиентов",
+        "phone_number": "+7 (495) XXX-XX-XX",
+        "email": "lenore59@hotmail.com",
+        "social": {
+          "ok": "http://auer.com/",
+          "vk": "http://weissnat.com/quidem-optio-molestias-voluptatem-voluptas-dolorem.html",
+          "rutube": "http://www.olson.com/perferendis-ab-et-possimus-voluptate-natus-voluptate-et.html",
+          "telegram": "https://www.dach.info/nemo-ut-ut-exercitationem-facilis-velit"
+        }
+      },
+      {
+        "id": 3,
+        "title": "xxx",
+        "phone_number": "+7 (495) XXX-XX-XX",
+        "email": "hsimonis@hotmail.com",
+        "social": {
+          "ok": "https://donnelly.com/sit-quaerat-consequuntur-velit-in-qui-pariatur.html",
+          "vk": "https://www.tillman.com/consequatur-incidunt-enim-doloremque-qui-similique",
+          "rutube": "http://mayert.net/",
+          "telegram": "http://hill.com/consectetur-voluptas-cumque-natus-consequuntur"
+        }
+      },
+      {
+        "id": 3,
+        "title": "xxx",
+        "phone_number": "+7 (495) XXX-XX-XX",
+        "email": "hsimonis@hotmail.com",
+        "social": {
+          "ok": "https://donnelly.com/sit-quaerat-consequuntur-velit-in-qui-pariatur.html",
+          "vk": "https://www.tillman.com/consequatur-incidunt-enim-doloremque-qui-similique",
+          "rutube": "http://mayert.net/",
+          "telegram": "http://hill.com/consectetur-voluptas-cumque-natus-consequuntur"
+        }
+      },
+      {
+        "id": 3,
+        "title": "xxx",
+        "phone_number": "+7 (495) XXX-XX-XX",
+        "email": "hsimonis@hotmail.com",
+        "social": {
+          "ok": "https://donnelly.com/sit-quaerat-consequuntur-velit-in-qui-pariatur.html",
+          "vk": "https://www.tillman.com/consequatur-incidunt-enim-doloremque-qui-similique",
+          "rutube": "http://mayert.net/",
+          "telegram": "http://hill.com/consectetur-voluptas-cumque-natus-consequuntur"
+        }
+      },
+      {
+        "id": 3,
+        "title": "xxx",
+        "phone_number": "+7 (495) XXX-XX-XX",
+        "email": "hsimonis@hotmail.com",
+        "social": {
+          "ok": "https://donnelly.com/sit-quaerat-consequuntur-velit-in-qui-pariatur.html",
+          "vk": "https://www.tillman.com/consequatur-incidunt-enim-doloremque-qui-similique",
+          "rutube": "http://mayert.net/",
+          "telegram": "http://hill.com/consectetur-voluptas-cumque-natus-consequuntur"
+        }
+      }
+    ]
   }
 }
