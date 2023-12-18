@@ -11,7 +11,8 @@
         "vk": "http://www.pollich.org/et-quia-qui-et-deserunt",
         "rutube": "https://towne.net/earum-vero-non-dolores-suscipit-incidunt-perspiciatis.html",
         "telegram": "http://nolan.info/sed-et-vero-laboriosam-sint-et-atque"
-      }
+      },
+      "photo": "/test-date/about/images/management_1.jpg"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
         "vk": "http://www.schimmel.net/in-deleniti-et-velit-ut-sint",
         "rutube": "http://gibson.com/molestiae-aspernatur-quia-iste-odit-accusantium.html",
         "telegram": ""
-      }
+      },
+      "photo": "/test-date/about/images/management_2.jpg"
     },
     {
       "id": 3,
@@ -37,7 +39,8 @@
         "vk": "",
         "rutube": "http://heaney.net/",
         "telegram": "https://zulauf.net/exercitationem-doloribus-reiciendis-quia.html"
-      }
+      },
+      "photo": ""
     }
   ]
 }
