@@ -16,8 +16,14 @@
       "type": "Фильм",
       "status": "Готово",
       "trailers": [
-        "/test-date/project/video/video_11.mp4",
-        "/test-date/project/video/video_33.mp4"
+        {
+          "id": 82,
+          "image": "/test-date/project/video/video_11.mp4"
+        },
+        {
+          "id": 82,
+          "image": "/test-date/project/video/video_33.mp4"
+        }
       ],
       "awards": [
         {
