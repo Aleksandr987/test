@@ -1,0 +1,103 @@
+{
+  "data": {
+    "project": {
+      "id": 8,
+      "title": "Легенда о Коловрате",
+      "slug": "legenda-o-kolovrate",
+      "description": "XIII век. Русь раздроблена и вот-вот падет на колени перед ханом Золотой Орды Батыем. Испепеляя города и заливая русские земли кровью, захватчики не встречают серьезного сопротивления, и лишь один воин бросает им вызов...",
+      "genres": [
+        "исторический", "фантастика", "боевик"
+      ],
+      "year": 2017,
+      "director": "Иван Шурховецкий",
+      "producers": "Джаник Файзиев, Рафаел Минасбекян, Павел Степанов",
+      "production": "Централ Партнершип, Киностудия КИТ, Продюсерский центр ИВАН",
+      "starring": "Илья Малаков, Полина Чернышова, Алексей Серебряков, Александр Ильин мл., Игорь Савочкин, Тимофей Трибунцев, Александр Цой, Юлия Хлынина, Андрей Бурковский, Виктор Проскурин",
+      "type": "Фильм",
+      "status": "Готово",
+      "trailers": [
+        "/test-date/project/video/video_11.mp4",
+        "/test-date/project/video/video_33.mp4"
+      ],
+      "awards": [
+        {
+          "id": 1,
+          "award_title": "Кинотавр",
+          "award_image": "/test-date/awards/images/award_1.jpg",
+          "year": "",
+          "nomination": "Лучшая режисура<br/> Лучшая актриса"
+        },
+        {
+          "id": 1,
+          "award_title": "Ника",
+          "award_image": "/test-date/awards/images/award_3.jpg",
+          "year": "",
+          "nomination": "Лучший фильм"
+        }
+      ],
+      "news": [
+        {
+          "id": 6,
+          "title": "«Киностудия КИТ» объявляет о съемках драмы",
+          "slug": "beatae-sit",
+          "project": {
+            "id": 8,
+            "title": "ea ipsa",
+            "slug": "ea-ipsa"
+          },
+          "short_description": "Vero itaque ut et nesciunt sit cumque ad. Qui ratione incidunt nihil ut. Illum asperiores occaecati sed placeat quam provident odio.",
+          "published_at": "26.12.2015 19:02",
+          "poster": "/test-date/news/images/news_1.jpg"
+        },
+        {
+          "id": 10,
+          "title": "Старт съёмок сериала «Законник»",
+          "slug": "eligendi-occaecati",
+          "project": {
+            "id": 8,
+            "title": "ea ipsa",
+            "slug": "ea-ipsa"
+          },
+          "short_description": "Ducimus id aut non. Numquam quod in repudiandae dolores et sint. Qui molestiae odio facere saepe quo.",
+          "published_at": "07.01.2020 04:39",
+          "poster": "/test-date/news/images/news_2.jpg"
+        }
+      ],
+      "main_poster": "/test-date/project/images/big_poster.jpg",
+      "poster": "/test-date/project/images/poster_1.jpg",
+      "photos": [
+        "/test-date/project/images/img_1.jpg",
+        "/test-date/project/images/img_2.jpg",
+        "/test-date/project/images/img_3.jpg",
+        "/test-date/project/images/img_6.jpg",
+        "/test-date/project/images/img_4.jpg",
+        "/test-date/project/images/img_3.jpg",
+        "/test-date/project/images/img_1.jpg"
+      ]
+    },
+    "recommendations": [
+      {
+        "id": 8,
+        "title": "ea ipsa",
+        "slug": "ea-ipsa",
+        "genres": [
+          "Dr.",
+          "Miss"
+        ],
+        "year": 2023,
+        "type": "Фильм"
+      },
+      {
+        "id": 8,
+        "title": "ea ipsa 2",
+        "slug": "ea-ipsa",
+        "genres": [
+          "Dr.",
+          "Miss"
+        ],
+        "year": 2023,
+        "type": "Фильм"
+      }
+    ]
+  }
+}
