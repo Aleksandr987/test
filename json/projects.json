@@ -63,7 +63,7 @@
             },
             "short_description": "Eveniet numquam nisi animi nihil. Quae deleniti aut eligendi neque expedita. Non voluptas atque tempora. Consequatur nihil eius dicta explicabo quis rerum aspernatur tempora.",
             "published_at": "23.03.1992 14:12",
-            "poster": ""
+            "poster": "/test-date/main_page/images/img-project-item.jpg"
           }
         ],
         "main_poster": "http://studiokit.local/storage/media/media/29/PR575724.png",
@@ -90,7 +90,7 @@
         "awards": [],
         "news": [],
         "main_poster": "",
-        "poster": "",
+        "poster": "/test-date/main_page/images/img-project-item.jpg",
         "photos": []
       },
       {
@@ -140,7 +140,7 @@
           }
         ],
         "main_poster": "",
-        "poster": "",
+        "poster": "/test-date/main_page/images/img-project-item.jpg",
         "photos": []
       },
       {
@@ -212,7 +212,7 @@
         "awards": [],
         "news": [],
         "main_poster": "http://192.168.0.102:9001/studiokit/media/30/1648749568_26-vsegda-pomnim-com-p-ozero-ritsa-v-aprele-foto-27.jpg",
-        "poster": "/test-date/main_page/images/img-project-item.jpg",
+        "poster": "",
         "photos": []
       },
       {
@@ -237,7 +237,7 @@
         "awards": [],
         "news": [],
         "main_poster": "http://192.168.0.102:9001/studiokit/media/30/1648749568_26-vsegda-pomnim-com-p-ozero-ritsa-v-aprele-foto-27.jpg",
-        "poster": "/test-date/main_page/images/img-project-item.jpg",
+        "poster": "",
         "photos": []
       },
       {
